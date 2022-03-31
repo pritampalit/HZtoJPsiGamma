@@ -1,0 +1,19 @@
+{ decls }
+namespace std {  }
+
+[  ]
+# List of selected classes
+class map<basic_string<char,char_traits<char>,allocator<char> >,unsigned int,less<basic_string<char,char_traits<char>,allocator<char> > >,allocator<pair<const basic_string<char,char_traits<char>,allocator<char> >,unsigned int> > >
+class map<basic_string<char,char_traits<char>,allocator<char> >,vector<double>,less<basic_string<char,char_traits<char>,allocator<char> > >,allocator<pair<const basic_string<char,char_traits<char>,allocator<char> >,vector<double> > > >
+class map<double,std::vector<double> >
+class map<double,vector<double> >
+class map<std::string,std::vector<double> >
+class map<std::string,unsigned int>
+class map<string,unsigned int>
+class map<string,vector<double> >
+class pair<basic_string<char,char_traits<char>,allocator<char> >,unsigned int>
+class pair<std::string,unsigned int>
+class pair<string,unsigned int>
+class vector<basic_string<char,char_traits<char>,allocator<char> > >
+class vector<std::string>
+class vector<string>
